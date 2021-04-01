@@ -1,5 +1,6 @@
 
-from keys import keys_to_byte
+# from keys import keys_to_byte
+from keycodes.keys import keys as k
 
 
 def str_to_byte_chr(input: list):
@@ -21,7 +22,28 @@ def str_to_byte_chr(input: list):
                 print(item)
     return ret_list
 
+def item_to_evdev(c: str):
+    return k[c]['evdev']
 
-s = ["H", "e", "l", "l", "o", "1", ",", ".", " "]
-for a,b in zip(s, str_to_byte_chr(s)):
-    print(a,b)
+def str_to_evdev(s: str):
+    ret_list = []
+    for i in s:
+        ret_list.append(k[i]['evdev'])
+
+    pass
+
+def evdev_to_str(i: int):
+    pass
+
+def list_to_evdev(l: list):
+    """
+    This method has to be used if you are sending stuff other than typable characters, like home/end or arrows. Etc.
+
+    @param l: List of single characters to be translated.
+    """
+    ret_list = []
+    for item in l:
+        ret_list.append(item_to_evdev(item))
+        # print(char_to_evdev(item))
+    return ret_list
+
