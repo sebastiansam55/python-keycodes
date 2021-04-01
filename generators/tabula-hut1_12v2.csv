@@ -1,138 +1,139 @@
-0,00,Reserved (no event indicated),N/A,√,√,√ 4/101/104
-1,01,Keyboard ErrorRollOver,N/A,√,√,√ 4/101/104
-2,02,Keyboard POSTFail,N/A,√,√,√ 4/101/104
-3,03,Keyboard ErrorUndefined,N/A,√,√,√ 4/101/104
-4,04,Keyboard a and A,31,√,√,√ 4/101/104
-5,05,Keyboard b and B,50,√,√,√ 4/101/104
-6,06,Keyboard c and C,48,√,√,√ 4/101/104
-7,07,Keyboard d and D,33,√,√,√ 4/101/104
-8,08,Keyboard e and E,19,√,√,√ 4/101/104
-9,09,Keyboard f and F,34,√,√,√ 4/101/104
-10,0A,Keyboard g and G,35,√,√,√ 4/101/104
-11,0B,Keyboard h and H,36,√,√,√ 4/101/104
-12,0C,Keyboard i and I,24,√,√,√ 4/101/104
-13,0D,Keyboard j and J,37,√,√,√ 4/101/104
-14,0E,Keyboard k and K,38,√,√,√ 4/101/104
-15,0F,Keyboard l and L,39,√,√,√ 4/101/104
-16,10,Keyboard m and M,52,√,√,√ 4/101/104
-17,11,Keyboard n and N,51,√,√,√ 4/101/104
-18,12,Keyboard o and O,25,√,√,√ 4/101/104
-19,13,Keyboard p and P,26,√,√,√ 4/101/104
-20,14,Keyboard q and Q,17,√,√,√ 4/101/104
-21,15,Keyboard r and R,20,√,√,√ 4/101/104
-22,16,Keyboard s and S,32,√,√,√ 4/101/104
-23,17,Keyboard t and T,21,√,√,√ 4/101/104
-24,18,Keyboard u and U,23,√,√,√ 4/101/104
-25,19,Keyboard v and V,49,√,√,√ 4/101/104
-26,1A,Keyboard w and W,18,√,√,√ 4/101/104
-27,1B,Keyboard x and X,47,√,√,√ 4/101/104
-28,1C,Keyboard y and Y,22,√,√,√ 4/101/104
-29,1D,Keyboard z and Z,46,√,√,√ 4/101/104
-30,1E,Keyboard 1 and !,2,√,√,√ 4/101/104
-31,1F,Keyboard 2 and @,3,√,√,√ 4/101/104
-32,20,Keyboard 3 and #,4,√,√,√ 4/101/104
-33,21,Keyboard 4 and $,5,√,√,√ 4/101/104
-34,22,Keyboard 5 and %,6,√,√,√ 4/101/104
-35,23,Keyboard 6 and ^,7,√,√,√ 4/101/104
-36,24,Keyboard 7 and &,8,√,√,√ 4/101/104
-37,25,Keyboard 8 and *,9,√,√,√ 4/101/104
-38,26,Keyboard 9 and (,10,√,√,√ 4/101/104
-39,27,Keyboard 0 and ),11,√,√,√ 4/101/104
-40,28,Keyboard Return (ENTER),43,√,√,√ 4/101/104
-41,29,Keyboard ESCAPE,110,√,√,√ 4/101/104
-42,2A,Keyboard DELETE (Backspace),15,√,√,√ 4/101/104
-43,2B,Keyboard Tab,16,√,√,√ 4/101/104
-44,2C,Keyboard Spacebar,61,√,√,√ 4/101/104
-45,2D,Keyboard - and (underscore),12,√,√,√ 4/101/104
-46,2E,Keyboard = and +,13,√,√,√ 4/101/104
-47,2F,Keyboard [ and {,27,√,√,√ 4/101/104
-48,30,Keyboard ] and },28,√,√,√ 4/101/104
-49,31,Keyboard \ and |,29,√,√,√ 4/101/104
-50,32,Keyboard Non-US # and ~,42,√,√,√ 4/101/104
-51,33,Keyboard ; and :,40,√,√,√ 4/101/104
-52,34,Keyboard ‘ and “,41,√,√,√ 4/101/104
-53,35,Keyboard Grave Accent and Tilde,1,√,√,√ 4/101/104
-54,36,Keyboard , and <,53,√,√,√ 4/101/104
-55,37,Keyboard . and >,54,√,√,√ 4/101/104
-56,38,Keyboard / and ?,55,√,√,√ 4/101/104
-57,39,Keyboard Caps Lock,30,√,√,√ 4/101/104
-58,3A,Keyboard F1,112,√,√,√ 4/101/104
-59,3B,Keyboard F2,113,√,√,√ 4/101/104
-60,3C,Keyboard F3,114,√,√,√ 4/101/104
-61,3D,Keyboard F4,115,√,√,√ 4/101/104
-62,3E,Keyboard F5,116,√,√,√ 4/101/104
-63,3F,Keyboard F6,117,√,√,√ 4/101/104
-64,40,Keyboard F7,118,√,√,√ 4/101/104
-65,41,Keyboard F8,119,√,√,√ 4/101/104
-66,42,Keyboard F9,120,√,√,√ 4/101/104
-67,43,Keyboard F10,121,√,√,√ 4/101/104
-68,44,Keyboard F11,122,√,√,√ 101/104
-69,45,Keyboard F12,123,√,√,√ 101/104
-70,46,Keyboard PrintScreen,124,√,√,√ 101/104
-71,47,Keyboard Scroll Lock,125,√,√,√ 4/101/104
-72,48,Keyboard Pause,126,√,√,√ 101/104
-73,49,Keyboard Insert,75,√,√,√ 101/104
-74,4A,Keyboard Home,80,√,√,√ 101/104
-75,4B,Keyboard PageUp,85,√,√,√ 101/104
-76,4C,Keyboard Delete Forward,76,√,√,√ 101/104
-77,4D,Keyboard End,81,√,√,√ 101/104
-78,4E,Keyboard PageDown,86,√,√,√ 101/104
-79,4F,Keyboard RightArrow,89,√,√,√ 101/104
-80,50,Keyboard LeftArrow,79,√,√,√ 101/104
-81,51,Keyboard DownArrow,84,√,√,√ 101/104
-82,52,Keyboard UpArrow,83,√,√,√ 101/104
-83,53,Keypad Num Lock and Clear,90,√,√,√ 101/104
-84,54,Keypad /,95,√,√,√ 101/104
-85,55,Keypad *,100,√,√,√ 4/101/104
-86,56,Keypad -,105,√,√,√ 4/101/104
-87,57,Keypad +,106,√,√,√ 4/101/104
-88,58,Keypad ENTER,108,√,√,√ 101/104
-89,59,Keypad 1 and End,93,√,√,√ 4/101/104
-90,5A,Keypad 2 and Down Arrow,98,√,√,√ 4/101/104
-91,5B,Keypad 3 and PageDn,103,√,√,√ 4/101/104
-92,5C,Keypad 4 and Left Arrow,92,√,√,√ 4/101/104
-93,5D,Keypad 5,97,√,√,√ 4/101/104
-94,5E,Keypad 6 and Right Arrow,102,√,√,√ 4/101/104
-95,5F,Keypad 7 and Home,91,√,√,√ 4/101/104
-96,60,Keypad 8 and Up Arrow,96,√,√,√ 4/101/104
-97,61,Keypad 9 and PageUp,101,√,√,√ 4/101/104
-98,62,Keypad 0 and Insert,99,√,√,√ 4/101/104
-99,63,Keypad . and Delete,104,√,√,√ 4/101/104
-100,64,Keyboard Non-US \ and |,45,√,√,√ 4/101/104
-101,65,Keyboard Application,129,√,,√ 104
-102,66,Keyboard Power,,,√,√
-103,67,Keypad =,,,√,
-104,68,Keyboard F13,,,√,
-105,69,Keyboard F14,,,√,
-106,6A,Keyboard F15,,,√,
-107,6B,Keyboard F16,,,,
-108,6C,Keyboard F17,,,,
-109,6D,Keyboard F18,,,,
-110,6E,Keyboard F19,,,,
-111,6F,Keyboard F20,,,,
-112,70,Keyboard F21,,,,
-113,71,Keyboard F22,,,,
-114,72,Keyboard F23,,,,
-115,73,Keyboard F24,,,,
-116,74,Keyboard Execute,,,,√
-117,75,Keyboard Help,,,,√
-118,76,Keyboard Menu,,,,√
-119,77,Keyboard Select,,,,√
-120,78,Keyboard Stop,,,,√
-121,79,Keyboard Again,,,,√
-122,7A,Keyboard Undo,,,,√
-123,7B,Keyboard Cut,,,,√
-124,7C,Keyboard Copy,,,,√
-125,7D,Keyboard Paste,,,,√
-126,7E,Keyboard Find,,,,√
-127,7F,Keyboard Mute,,,,√
-128,80,Keyboard Volume Up,,,,√
-129,81,Keyboard Volume Down,,,,√
-130,82,Keyboard Locking Caps Lock,,,,√
-131,83,Keyboard Locking Num Lock,,,,√
-132,84,Keyboard Locking Scroll Lock,,,,√
-133,85,Keypad Comma,107,,,
-134,86,Keypad Equal Sign,,,,
+decimal, hex, plaintext, evdev, javascript
+0,00,Reserved (no event indicated),,
+1,01,Keyboard ErrorRollOver,,
+2,02,Keyboard POSTFail,,
+3,03,Keyboard ErrorUndefined,,
+4,04,Keyboard a and A,30,65
+5,05,Keyboard b and B,48,66
+6,06,Keyboard c and C,46,67
+7,07,Keyboard d and D,32,68
+8,08,Keyboard e and E,18,69
+9,09,Keyboard f and F,33,70
+10,0A,Keyboard g and G,34,71
+11,0B,Keyboard h and H,35,72
+12,0C,Keyboard i and I,23,73
+13,0D,Keyboard j and J,36,74
+14,0E,Keyboard k and K,37,75
+15,0F,Keyboard l and L,38,76
+16,10,Keyboard m and M,50,77
+17,11,Keyboard n and N,49,78
+18,12,Keyboard o and O,24,79
+19,13,Keyboard p and P,25,80
+20,14,Keyboard q and Q,16,81
+21,15,Keyboard r and R,19,82
+22,16,Keyboard s and S,31,83
+23,17,Keyboard t and T,20,84
+24,18,Keyboard u and U,22,85
+25,19,Keyboard v and V,47,86
+26,1A,Keyboard w and W,17,87
+27,1B,Keyboard x and X,45,88
+28,1C,Keyboard y and Y,21,89
+29,1D,Keyboard z and Z,44,90
+30,1E,Keyboard 1 and !,2,49
+31,1F,Keyboard 2 and @,3,50
+32,20,Keyboard 3 and #,4,51
+33,21,Keyboard 4 and $,5,52
+34,22,Keyboard 5 and %,6,53
+35,23,Keyboard 6 and ^,7,54
+36,24,Keyboard 7 and &,8,55
+37,25,Keyboard 8 and *,9,56
+38,26,Keyboard 9 and (,10,57
+39,27,Keyboard 0 and ),11,48
+40,28,Keyboard Return (ENTER),28,13
+41,29,Keyboard ESCAPE,1,27
+42,2A,Keyboard DELETE (Backspace),14,8
+43,2B,Keyboard Tab,15,9
+44,2C,Keyboard Spacebar,57,32
+45,2D,Keyboard - and (underscore),12,
+46,2E,Keyboard = and +,13,
+47,2F,Keyboard [ and {,26,
+48,30,Keyboard ] and },27,
+49,31,Keyboard \ and |,43,
+50,32,Keyboard Non-US # and ~,42,
+51,33,Keyboard ; and :,39,
+52,34,Keyboard ' and ",40,
+53,35,Keyboard ` and ~,41,
+54,36,Keyboard comma and <,51,
+55,37,Keyboard . and >,52,
+56,38,Keyboard / and ?,53,
+57,39,Keyboard Caps Lock,58,
+58,3A,Keyboard F1,59,112
+59,3B,Keyboard F2,60,113
+60,3C,Keyboard F3,61,114
+61,3D,Keyboard F4,62,115
+62,3E,Keyboard F5,63,116
+63,3F,Keyboard F6,64,117
+64,40,Keyboard F7,65,118
+65,41,Keyboard F8,66,119
+66,42,Keyboard F9,67,120
+67,43,Keyboard F10,68,121
+68,44,Keyboard F11,87,122
+69,45,Keyboard F12,88,123
+70,46,Keyboard PrintScreen,124,
+71,47,Keyboard Scroll Lock,70,
+72,48,Keyboard Pause,119,
+73,49,Keyboard Insert,110,
+74,4A,Keyboard Home,102,
+75,4B,Keyboard PageUp,104,
+76,4C,Keyboard Delete Forward,111,
+77,4D,Keyboard End,107,
+78,4E,Keyboard PageDown,109,
+79,4F,Keyboard RightArrow,106,39
+80,50,Keyboard LeftArrow,105,37
+81,51,Keyboard DownArrow,108,40
+82,52,Keyboard UpArrow,103,38
+83,53,Keypad Num Lock and Clear,69,
+84,54,Keypad /,95,
+85,55,Keypad *,100,
+86,56,Keypad -,105,
+87,57,Keypad +,106,
+88,58,Keypad ENTER,108,
+89,59,Keypad 1 and End,93,
+90,5A,Keypad 2 and Down Arrow,98,
+91,5B,Keypad 3 and PageDn,103,
+92,5C,Keypad 4 and Left Arrow,92,
+93,5D,Keypad 5,97,
+94,5E,Keypad 6 and Right Arrow,102,
+95,5F,Keypad 7 and Home,91,
+96,60,Keypad 8 and Up Arrow,96,
+97,61,Keypad 9 and PageUp,101,
+98,62,Keypad 0 and Insert,99,
+99,63,Keypad . and Delete,104,
+100,64,Keyboard Non-US \ and |,45,
+101,65,Keyboard Application,129,
+102,66,Keyboard Power,,
+103,67,Keypad =,,
+104,68,Keyboard F13,183,124
+105,69,Keyboard F14,184,125
+106,6A,Keyboard F15,185,126
+107,6B,Keyboard F16,186,127
+108,6C,Keyboard F17,187,128
+109,6D,Keyboard F18,188,129
+110,6E,Keyboard F19,189,130
+111,6F,Keyboard F20,190,131
+112,70,Keyboard F21,191,132
+113,71,Keyboard F22,192,133
+114,72,Keyboard F23,193,134
+115,73,Keyboard F24,194,135
+116,74,Keyboard Execute,,
+117,75,Keyboard Help,138,
+118,76,Keyboard Menu,,
+119,77,Keyboard Select,,
+120,78,Keyboard Stop,,
+121,79,Keyboard Again,,
+122,7A,Keyboard Undo,,
+123,7B,Keyboard Cut,,
+124,7C,Keyboard Copy,,
+125,7D,Keyboard Paste,,
+126,7E,Keyboard Find,,
+127,7F,Keyboard Mute,,
+128,80,Keyboard Volume Up,,
+129,81,Keyboard Volume Down,,
+130,82,Keyboard Locking Caps Lock,,
+131,83,Keyboard Locking Num Lock,,
+132,84,Keyboard Locking Scroll Lock,,
+133,85,Keypad Comma,107,
+134,86,Keypad Equal Sign,,
 135,87,Keyboard International1,56
 136,88,Keyboard International2,
 137,89,Keyboard International3,
@@ -209,14 +210,14 @@
 218,DA,Keypad Binary
 219,DB,Keypad Octal
 220,DC,Keypad Decimal
-221,DD,Keypad Hexadecimal,,,,
-222-223,DE-DF,Reserved,,,,
-224,E0,Keyboard LeftControl,58,√,√,√ 4/101/104
-225,E1,Keyboard LeftShift,44,√,√,√ 4/101/104
-226,E2,Keyboard LeftAlt,60,√,√,√ 4/101/104
-227,E3,Keyboard Left GUI,127,√,√,√ 104
-228,E4,Keyboard RightControl,64,√,√,√ 101/104
-229,E5,Keyboard RightShift,57,√,√,√ 4/101/104
-230,E6,Keyboard RightAlt,62,√,√,√ 101/104
-231,E7,Keyboard Right GUI,128,√,√,√ 104
-232-65535,E8-FFFF,Reserved,,,,
+221,DD,Keypad Hexadecimal,,
+222-223,DE-DF,Reserved,,
+224,E0,Keyboard LeftControl,29,
+225,E1,Keyboard LeftShift,42,
+226,E2,Keyboard LeftAlt,56,
+227,E3,Keyboard Left GUI,125,
+228,E4,Keyboard RightControl,97,
+229,E5,Keyboard RightShift,54,
+230,E6,Keyboard RightAlt,100,
+231,E7,Keyboard Right GUI,126,
+232-65535,E8-FFFF,Reserved,,
