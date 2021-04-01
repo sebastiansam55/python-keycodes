@@ -865,7 +865,7 @@ keys = {
 }
 
 def add_evdev_shift(shift, unshift):
-    keys[shift]["evdev"] = [42, int(keys[unshift]["evdev"])]
+    keys[shift]["evdev"] = [[42], int(keys[unshift]["evdev"])]
 
 keys['<'] = keys[','].copy()
 keys['>'] = keys['.'].copy()
@@ -897,4 +897,4 @@ for shift, unshift in zip(shifted, unshifted):
 # add upper cases:
 for ch in ascii_lowercase:
     keys[ch.upper()] = keys[ch].copy()
-    keys[ch.upper()]["evdev"] = [42, int(keys[ch]["evdev"])]
+    keys[ch.upper()]["evdev"] = [[42], int(keys[ch]["evdev"])]

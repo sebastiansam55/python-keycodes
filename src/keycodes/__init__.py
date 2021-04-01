@@ -31,6 +31,18 @@ def str_to_evdev(s: str):
         ret_list.append(k[i]['evdev'])
     return ret_list
 
+def hotkey_to_evdev(l: list):
+    ret_list = []
+    mod_list = []
+    for i in l[0]:
+        mod_list.append(k[i]['evdev'])
+    ret_list.append(mod_list)
+    for i in l[1:]:
+        ret_list.append(k[i]['evdev'])
+
+    return ret_list
+
+
 def evdev_to_str(i: int):
     pass
 
