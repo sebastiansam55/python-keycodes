@@ -201,4 +201,6 @@ setup(
         # 'Say Thanks!': 'http://saythanks.io/to/example',
         'Source': 'https://github.com/sebastiansam55/python-keycodes',
     },
+
+    test_suite = "pytest",
 )
