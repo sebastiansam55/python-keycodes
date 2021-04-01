@@ -29,8 +29,7 @@ def str_to_evdev(s: str):
     ret_list = []
     for i in s:
         ret_list.append(k[i]['evdev'])
-
-    pass
+    return ret_list
 
 def evdev_to_str(i: int):
     pass
